@@ -60,7 +60,7 @@ export default {
                 headers:getters.authHeader
             })
                 .then((res) => {
-                    console.log(res.data)
+                    // console.log(res.data)
                     commit('SET_RECOMMAND_PERSON_LIST',res.data)
             })  .catch((err) => {
                 console.log(err)
