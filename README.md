@@ -28,7 +28,6 @@
 - 개인이 테마를 만들어 작성하고, 이런 개인 테마가 모여 공통 테마가 만들어 집니다.
 - 특정 인물이 작성한 테마(개인 테마)를 팔로우 하여 새로운 글 작성시 메인 화면에서 확인할 수 있습니다.
 
-![image](https://user-images.githubusercontent.com/76879122/209943280-ab4ae2a4-f284-43df-9a67-83529a7be016.png)
 
 <br />
 
@@ -145,7 +144,8 @@
 
 ### 1) 아키텍처 구조
 
-<img src="https://velog.velcdn.com/images/aammaa/post/18e2d62b-4a69-4a0b-96b1-96a466ddbba0/image.png" width ="1000"/>
+
+![image](https://user-images.githubusercontent.com/76879122/209943280-ab4ae2a4-f284-43df-9a67-83529a7be016.png)
 
 <br />
 
