@@ -3,7 +3,7 @@
 <br />
     <img src ="https://velog.velcdn.com/images/aammaa/post/5ed51d64-0366-4f26-8089-79ef4949cdf3/image.png" width="300px" />
     <h3></h3>
-    <h3> 장소 기반 취향을 공유하는 SNS </h3>
+    <h3> 장소 기반 취향 공유 SNS </h3>
     <p align="center">
 <br />
 </div>
